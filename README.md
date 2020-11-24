@@ -1,2 +1,7 @@
 # 201410033
-repository Sopian Hidayat
++ Hi 
+
++ :godmode: : Mochamad Sopian Hidayat
+
++ :email: : sopianhidayat62@gmail.com
+
