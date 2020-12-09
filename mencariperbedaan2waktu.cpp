@@ -39,4 +39,6 @@ int main()
 	d3=sm%60;
 	cout<<"===================================="<<endl;
 	cout<<"Lama Bermain ="<<j3<<":"<<m3<<":"<<d3<<endl;
+	
+	return 0;
 }
