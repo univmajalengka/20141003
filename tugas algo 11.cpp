@@ -17,7 +17,7 @@ int main()
 {
 	system ("color A");
 	int t_pembelian, discont, bayar;
-	char kembali;
+	
 	cout<<"\tTUGAS ALGORITMA"<<endl;
 
 	batas();
