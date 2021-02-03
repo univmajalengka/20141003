@@ -27,7 +27,6 @@ int main()
 	
 	batas();
 	{
-	}
 	if (t_pembelian <= 25000 && t_pembelian >= 5000){
 		discont = t_pembelian * dc1;
 		bayar = t_pembelian - discont;
